@@ -1,5 +1,7 @@
-Bubble-EX
+Bubble-EX (THEY)
 =======
+
+### Bubble-EX, но с вырезанной поддержкой 95% модов, которых нет в моей сборке + полная зависимость от Cleanroom.
 
 A mod api that adds 7 bauble slots to the players inventory.
 
