@@ -1,14 +1,10 @@
-#
-# ITEMS
-item.baubles.max_verstappen.name=馬克斯·維斯塔潘
-#
 # GUI
 button.baubles=配件裝備欄
 button.normal=一般裝備欄
-#
+
 # Keybinding
 keybind.baublesinventory=配件裝備欄
-#
+
 # Description
 baubles.type.amulet=護身符
 baubles.type.ring=戒指

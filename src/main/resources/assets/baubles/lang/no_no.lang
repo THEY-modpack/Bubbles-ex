@@ -1,14 +1,13 @@
-#
 # ITEMS
 item.Ring.0.name=Gruvearbeiders Ring
-#
+
 # GUI
 button.baubles=Smykker
 button.normal=Normal
-#
+
 # Keybinding
 keybind.baublesinventory=Smykkeskrin
-#
+
 # Description
 name.AMULET=Smykke (Amulett)
 name.RING=Smykke (Ring)

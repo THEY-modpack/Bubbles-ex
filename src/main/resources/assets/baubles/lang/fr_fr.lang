@@ -1,14 +1,13 @@
-# 
 # ITEMS 
 item.Ring.0.name=Anneau du mineur 
-# 
+
 # GUI 
 button.baubles=Bibelots 
 button.normal=Normal 
-#
+
 # Keybinding
 keybind.baublesinventory=Inventaire des bibelots
-#
+
 # Description
 name.AMULET=Bibelot (Amulette)
 name.RING=Bibelot (Anneau)

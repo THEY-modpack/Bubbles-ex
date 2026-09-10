@@ -1,10 +1,9 @@
-#
 # Речі
 item.Ring.0.name=Перстень шахтаря
-#
+
 # GUI
 button.baubles=Baubles
 button.normal=Звич.
-#
+
 # Keybinding
 keybind.baublesinventory=Інвертар Baubles

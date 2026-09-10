@@ -1,15 +1,10 @@
-#
-# ITEMS
-item.baubles.max_verstappen.name=Max Verstappen
-item.baubles.creeper_cast.name=Creeper Cast
-#
 # GUI
 button.baubles=Baubles
 button.normal=Normal
-#
+
 # Keybinding
 keybind.baublesinventory=Baubles Inventory
-#
+
 # Description
 baubles.type.amulet=Amulet
 baubles.type.ring=Ring

@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "baubles.mixins",
+  "compatibilityLevel": "JAVA_25",
+  "target": "@env(DEFAULT)",
+  "client": [
+  ],
+  "mixins": [
+    "botania.MixinItemBauble",
+    "qualitytools.MixinBaublesHandler",
+    "wings.MixinItemWings"
+  ],
+  "server": [],
+  "setSourceFile": true,
+  "minVersion": "0.8.7"
+}

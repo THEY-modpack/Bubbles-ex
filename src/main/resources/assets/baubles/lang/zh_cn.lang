@@ -1,15 +1,10 @@
-#
-# ITEMS
-item.baubles.max_verstappen.name=马克斯·维斯塔潘
-item.baubles.creeper_cast.name=苦力怕铸模
-#
 # GUI
 button.baubles=饰品
 button.normal=普通
-#
+
 # Keybinding
 keybind.baublesinventory=饰品栏
-#
+
 # Description
 baubles.type.amulet=护身符
 baubles.type.ring=指环

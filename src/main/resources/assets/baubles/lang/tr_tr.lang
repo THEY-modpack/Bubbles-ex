@@ -1,14 +1,13 @@
-#
 # ITEMS
 item.Ring.0.name=Madenci'nin Yüzüğü
-#
+
 # GUI
 button.baubles=Baubles
 button.normal=Normal
-#
+
 # Keybinding
 keybind.baublesinventory=Baubles Envanteri
-#
+
 # Description
 name.AMULET=Bauble (Muska)
 name.RING=Bauble (Yüzük)
