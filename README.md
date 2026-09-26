@@ -1,13 +1,17 @@
 Bubble-EX (THEY)
 =======
 
-### Bubble-EX, но с вырезанной поддержкой 95% модов, которых нет в моей сборке + полная зависимость от Cleanroom.
+### Bubble-EX, but with support for 95% of mods not included in my modpack removed + full dependency on Cleanroom.
 
-A mod api that adds 7 bauble slots to the players inventory.
+In theory, faster than the regular [Bubble-EX](https://www.curseforge.com/minecraft/mc-mods/bubblesex). You can add it to your modpack if you don't need support for the removed mods:
 
-The mod has no real content - the idea is that other mods will use this one and its API to add their own baubles.
+-
 
-The 7 slots added are an amulet, belt, head, body, charm and 2 ring slots.
+- WIP
+-
 
-Bubble-EX is distributed under the Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) license.
+Remaining mod support:
 
+* [Universal Tweaks](https://www.curseforge.com/minecraft/mc-mods/universal-tweaks)
+* [Mouse Tweaks Unofficial](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks-unofficial)
+* [RLArtifacts](https://www.curseforge.com/minecraft/mc-mods/rl-artifacts)
