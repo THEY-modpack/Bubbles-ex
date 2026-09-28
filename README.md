@@ -1,4 +1,4 @@
-Bubble-EX (THEY)
+<a href="#"><img width="64" height="64" src="https://github.com/THEY-modpack/Bubbles-ex/blob/master/src/main/resources/BLogo.png" /></a> Bubble-EX (THEY)
 =======
 
 ### Bubble-EX, but with support for 95% of mods not included in my modpack removed + full dependency on Cleanroom.
