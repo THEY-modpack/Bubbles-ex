@@ -22,10 +22,10 @@ dependencies {
         compileOnly "com.cleanroommc:lwjglx:1.0.0"
     }
     
-    modLibrary 'mezz:jei:4.33.0:dev' // Use for mod Mixin example
+    modDevImplementation 'mezz:jei:4.35.0:dev' // Use for mod Mixin example
 	
 	modImplementation "curse.maven:rl-artifacts-819886:4475428"
-	modImplementation "curse.maven:universal-tweaks-705000:8181251"
+	modImplementation "curse.maven:universal-tweaks-705000:8941250"
 	modImplementation "curse.maven:mouse-tweaks-unofficial-461660:5876158"
 	
 	modImplementation "curse.maven:cosmeticarmor-237307:2937869"
